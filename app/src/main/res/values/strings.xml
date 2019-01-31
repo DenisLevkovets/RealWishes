@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">RealWishes</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="title1">Зиг Циглар</string>
+    <string name="string1">Вы не должны быть великими, чтобы начать, но вы должны начать, чтобы быть великими.</string>
+
+    <string name="title2">Лес Браун</string>
+    <string name="string2">Мнение других о вас не должно стать вашей реальностью.</string>
+
+    <string name="title3">Оноре де Бальзак</string>
+    <string name="string3">Вера в себя способна творить такие же чудеса, как и вера в Господа Бога.</string>
+
+    <string name="title4">Януш Вишневский</string>
+    <string name="string4">Лучше быть уверенным в себе, заблуждаясь, чем сомневаться, будучи правым.</string>
+
+    <string name="title5">Франсуа де Ларошфуко</string>
+    <string name="string5">Уверенность в себе составляет основу нашей уверенности в других. </string>
+
+    <string name="title6">Самуэль Джонсон</string>
+    <string name="string6">Уверенность в себе есть первое условие великих предприятий. </string>
+
+    <string name="title7">Вильгельм Гумбольт</string>
+    <string name="string7">Много умеет тот, кто много на себя рассчитывает. </string>
+
+    <string name="title8">Зедд</string>
+    <string name="string8">Думай не о задаче, а о решении. </string>
+
+    <string name="title9">Будда</string>
+    <string name="string9">Вы сами, настолько, как никто другой во вселенной, заслуживаете вашей любви и ласки</string>
+
+    <string name="title10">Макс Фрай</string>
+    <string name="string10">Надежда изматывает, а уверенность позволяет сберечь много сил. </string>
+
+    <string name="title11">Лев Толстой</string>
+    <string name="string11">Счастье не в том, чтобы делать всегда, что хочешь, а в том, чтобы всегда хотеть того, что делаешь.</string>
+
+    <string name="title12">Томас Эдисон</string>
+    <string name="string12">Я не терпел поражений. Я просто нашёл 10 000 способов, которые не работают.</string>
+
+    <string name="title13">Далай Лама</string>
+    <string name="string13">Если проблему можно разрешить, не стоит о ней беспокоиться. Если проблема неразрешима, беспокоиться о ней бессмысленно.</string>
+
+    <string name="title14">Пифагор</string>
+    <string name="string14"> Просыпаясь утром, спроси себя: «Что я должен сделать?» Вечером, прежде чем заснуть: «Что я сделал?».</string>
+
+    <string name="title15">Генри Форд</string>
+    <string name="string15">Я этого хочу. Значит, это будет. </string>
+
+    <string name="title16">Джон Максвелл</string>
+    <string name="string16">Тяжёлый труд - это скопление легких дел, которые вы не сделали, когда должны были сделать. </string>
+
+    <string name="title17">Генри Форд</string>
+    <string name="string17">Неудача - это просто возможность начать снова, но уже более мудро. </string>
+
+    <string name="title18">Юлий Цезарь</string>
+    <string name="string18">Великие дела нужно совершать , а не обдумывать их бесконечно.</string>
+
+    <string name="title19">Роберт Кийосаки</string>
+    <string name="string19">Бедный, неудачный, несчастливый и нездоровый это тот, кто часто использует слово "завтра". </string>
+
+    <string name="title20">Томас Мор</string>
+    <string name="string20">Если хотите иметь успех, Вы должны выглядеть так, как будто Вы его имеете. </string>
+
+
+
+</resources>
